@@ -1,0 +1,84 @@
+Current board status:
+|♜|♞|♝| | | |♘| |
+|♟| |♟| | | | |♚|
+| |♟| | | |♟| | |
+| |♙| | |♙| |♟|♟|
+|♙| |♞| | | | | |
+| | | | |♘| |♙|♗|
+| | | | | | | |♙|
+|♖| | | |♔| |♖| |
+
+Removed:
+White: ♙ ♗ ♕ ♙ ♙
+Black: ♟ ♝ ♟ ♛ ♜
+
+History of moves:
+1. Gemini: White Pawn from E2 to E4
+2. ChatGPT: Black Pawn from E7 to E5
+3. Gemini: White Knight from G1 to F3
+4. ChatGPT: Black Knight from G8 to F6
+5. Gemini: White Pawn from D2 to D4
+6. ChatGPT: Black Pawn from E5 to D4 -> Takes down White Pawn
+7. Gemini: White Bishop from C1 to G5
+8. ChatGPT: Black Bishop from F8 to E7
+9. Gemini: White Queen from D1 to D3
+10. ChatGPT: Black King from E8 to G8 + Black Castle from H8 to F8. Castling
+11. Gemini: White Knight from F3 to D4 -> Takes down Black Pawn
+12. ChatGPT: Black Pawn from D7 to D6
+13. Gemini: White Pawn from F2 to F4
+14. ChatGPT: Black Pawn from H7 to H6
+15. Gemini: White Knight from D4 to B5
+16. ChatGPT: Black Pawn from D6 to D5
+17. Gemini: White Pawn from E4 to E5
+18. ChatGPT: Black Pawn from D5 to E4
+19. Gemini: White Queen from D3 to D2
+20. ChatGPT: Black Knight from F6 to D5
+21. Gemini: White Pawn from F4 to F5
+22. ChatGPT: Black Bishop from E7 to G5 -> Takes down White Bishop 
+23. Gemini: White Queen from D2 to G5 -> Takes down Black Bishop
+24. ChatGPT: Black Queen from D8 to G5 -> Takes down White Queen
+25. Gemini: White Knight from B5 to D4 -> Takes down Black Pawn
+26. ChatGPT: Black Queen from G5 to F5 -> Takes down White Pawn
+27. Gemini: White Knight from D4 to F5 -> Takes down Black Queen
+28. ChatGPT: Black Pawn from G7 to G6
+29. Gemini: White Pawn from C2 to C4
+30. ChatGPT: Black Pawn from B7 to B6 
+31. Gemini: White Pawn from B2 to B4
+32. ChatGPT: Black Knight from D5 to E7
+33. Gemini: White Knight from B1 to C3
+34. ChatGPT: Black Knight from E7 to D5
+35. Gemini: White Pawn from G2 to G3
+36. ChatGPT: Black Knight from D5 to E3
+37. Gemini: White Pawn from A2 to A4
+38. ChatGPT: Black Knight from E3 takes White Pawn on C4
+39. Gemini: White Knight from C3 to D5
+40. ChatGPT: Black Pawn from F7 to F6
+41. Gemini: White Knight from D5 to E3
+42. ChatGPT: Black Rook from F8 to E8
+43. Gemini: White Rook from A1 to A3
+44. ChatGPT: Black Pawn from G6 to G5
+45. Gemini: White Pawn from B4 to B5
+46. ChatGPT: Black Rook from E8 to E7
+47. Gemini: White Bishop from F1 to H3
+48. ChatGPT: Black Rook from E7 to F7
+49. Gemini: White Rook from A3 to A1
+50. ChatGPT: Black Pawn from H6 to H5
+51. Gemini: White Knight from F5 to H6 -> Check for Black
+52. ChatGPT: Black King from G8 to H8
+53. Gemini: White Knight from H6 to F5
+54. ChatGPT: Black King from H8 to G8
+55. Gemini: White Knight from F5 to H6 -> Check for Black
+56. ChatGPT: Black King from G8 to F8
+57. Gemini: White Knight from H6 to F7 -> Takes down Black Rook
+58. ChatGPT: Black King from F8 to G8
+59. Gemini: White Rook from H1 to G1
+60. ChatGPT: Black King from G8 to H7
+61. Gemini: White Knight from F7 to H6
+62. ChatGPT: Black King from H7 to H8
+63. Gemini: White Knight from H6 to F7 -> Check
+64. ChatGPT: Black King from H8 to G8
+65. Gemini: White Knight from F7 to H6 -> Check
+66. ChatGPT: Black King from G8 to H7
+67. Gemini: White Knight from H6 to G8
+68. ChatGPT: Black Bishop from C8 to F5
+69. Gemini: 3 consecutive mistakes which makes Gemini loose the game. ChatGPT won with "Technical KO".
