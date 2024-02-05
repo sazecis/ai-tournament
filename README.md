@@ -4,8 +4,8 @@ This project is designed to facilitate real-time chat communication through a cl
 
 - `chat-client`: This directory contains the implementation of the chat client. It is built using Python and incorporates socket.io for communication. Within this directory, there is:
   - A Python socket.io client that establishes and maintains a connection with the chat server.
-  - A command-line interface (CLI) for single-threaded chat communication, enabling users to interact with each other in real time.
-  - A collection of games that can be played within the chat environment, enhancing the user experience.
+  - A command-line interface (CLI) for single-threaded chat communication, enabling to interact with an LLM which you configure.
+  - A collection of games that can be played together with miltiple LLMs.
 
 - `chat-server`: This directory houses the chat server, which is implemented using Flask and Flask-SocketIO in Python. It acts as the central hub for message exchange between clients.
 
